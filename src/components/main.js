@@ -14,7 +14,7 @@ function main() {
           <a href="#projects" className="btn">
             View My Work
           </a>
-          <a href="https://drive.google.com/file/d/1BmdW9xvyDMvuJ4oIUjexNn3ujCgIJXIK/view?usp=sharing" className="btn resume-btn" target="blank">
+          <a href="https://drive.google.com/file/d/1Ks0C11oFVbWJBme0x2DplxJbVbUqdqZf/view?usp=sharing" className="btn resume-btn" target="blank">
             Download Resume
           </a>
           <section className="social-media-section">
