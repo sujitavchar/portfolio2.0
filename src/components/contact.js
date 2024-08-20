@@ -32,7 +32,7 @@ function Contact() {
         <div className="responsive-div" id="contact-msg">
         <div className="content">
           <p>
-                Fill the following form to directly send  me an email.
+              Fill out the form below, and your message will be sent directly to my email inbox—I'll get back to you as soon as possible!
           </p>
         </div>
       </div>
